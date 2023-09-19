@@ -63,6 +63,10 @@ GET - /trade/item/{itemId}
 ```
 
 
+## ERD
+
+![](img.png)
+
 
 
 
